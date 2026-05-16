@@ -84,14 +84,6 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 
 ---
 
-## Currently Exploring
-
-- Quantum Machine Learning (Qiskit + PennyLane)
-- Multimodal AI systems
-- Deploying CV models on edge devices (Raspberry Pi, Coral)
-
----
-
 ## Let's Connect
 
 <div align="center">
