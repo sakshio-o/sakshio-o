@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sakshio-o&color=58A6FF&style=for-the-badge)
 
 <div align="center">
 
@@ -108,3 +107,7 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sakshio-o&color=58A6FF&style=for-the-badge)
+
