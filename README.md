@@ -23,46 +23,51 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 
 ---
 
-## Featured Projects
-
-### [Air Sketch AI](https://github.com/sakshio-o/air-sketch-ai)
-> Real-time gesture-controlled AI whiteboard  
-> `Python` `MediaPipe` `OpenCV` `OpenRouter Vision API`  
-> Draw with your hand in the air → AI solves equations, generates code, interprets visuals. Low-latency and runs entirely on webcam input.
-
-### [3D Point Cloud Generator](https://github.com/sakshio-o/pointcloud)
-> Phone video → interactive 3D mesh  
-> `Python` `COLMAP` `Open3D` `OpenCV`  
-> Structure-from-Motion pipeline that reconstructs textured `.ply`/`.obj` models from 360° phone footage.
-
-### [IoT Morse Code Translator](https://github.com/sakshio-o/morse-code-translator)
-> Assistive communication device — **officially copyrighted**  
-> `Arduino` `Embedded C` `I2C LCD` `Talkie`  
-> Real-time Morse decode with dual output: LCD display + audio speech synthesis.
-
----
-
-## Tech Stack
+##  Technologies & Tools
 
 **Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![languages](https://skillicons.dev/icons?i=python,cpp,html,css,mysql&perline=10)
 
-**AI / ML**
+</div>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**AI & ML**
+<div align="center">
+
+![ai](https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&perline=10)
+
+</div>
+
+**Hardware & Embedded**
+<div align="center">
+
+![hardware](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10)
+
+</div>
+
+**Tools & Platforms**
+<div align="center">
+
+![tools](https://skillicons.dev/icons?i=git,github,vscode,linux,matlab&perline=10)
+
+</div>
+
+**Libraries**
+<div align="center">
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-1A1A2E?style=for-the-badge&logo=python&logoColor=white)
+![COLMAP](https://img.shields.io/badge/COLMAP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Tools**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+</div>
 
 ---
 
@@ -76,17 +81,6 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 <img src="https://github-profile-trophy.vercel.app/?username=sakshio-o&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
----
-
-## Certifications
-
-| Certificate | Issuer |
-|---|---|
-| Edge AI | ACM Winter School, IISc Bangalore |
-| Python for Data Science (Top 5%, 85/100) | NPTEL |
-| AI for Real-World Applications | TCS iON × IIT Kharagpur |
-| Qiskit Fall Fest 2025 | IBM Quantum |
-| Big Data Analytics with Hadoop | IEEE |
 
 ---
 
