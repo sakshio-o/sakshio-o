@@ -73,7 +73,6 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 <img src="https://github-profile-trophy.vercel.app/?username=sakshio-o&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
-
 ---
 
 ## Let's Connect
