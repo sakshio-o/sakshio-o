@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 </div>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&duration=2000&pause=3000&color=C9A9E0&center=true&repeat=true&width=600&height=60&lines=Hi+there%2C+I'm+Sakshi!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
+
 ## About Me
 
 I'm a B.Tech student in **AI & Data Science** at VPKBIET, Pune. Department topper, currently exploring the intersection of computer vision, generative AI, and embedded systems.
@@ -81,6 +85,10 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 ---
 
 ## Let's Connect
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+</div>
 
 <div align="center">
 
