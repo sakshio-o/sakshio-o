@@ -63,41 +63,6 @@ I don't just study AI — I build with it: gesture-controlled whiteboards, 3D re
 
 ---
 
-## Featured Projects
-
-<table align="center" border="0" cellpadding="12">
-<tr>
-<td width="50%" valign="top">
-
-### [Air Sketch AI](https://github.com/sakshio-o/air-sketch-ai)
-Real-time gesture-controlled whiteboard using MediaPipe, OpenCV, and the OpenRouter Vision API.
-
-`Python` `OpenCV` `MediaPipe`
-
-</td>
-<td width="50%" valign="top">
-
-### [3D Point Cloud Generator](https://github.com/sakshio-o/3d-point-cloud-generator)
-Reconstructs 3D scenes from 2D images using COLMAP and Open3D, inspired by Digital Twins research from ACM Winter School at IISc Bangalore.
-
-`Python` `COLMAP` `Open3D`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-
-### [IoT Morse Code Translator](https://github.com/sakshio-o/iot-morse-code-translator)
-Arduino-based assistive communication device, copyrighted under the Indian Copyright Act, 1957.
-
-`Arduino` `C++` `IoT`
-
-</td>
-</tr>
-</table>
-
----
-
 ## GitHub Stats
 
 <div align="center">
