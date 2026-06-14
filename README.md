@@ -66,11 +66,14 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshio-o&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshio-o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshio-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakshio-o&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshio-o&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
 
 ---
@@ -92,4 +95,8 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshio-o&color=58A6FF&style=for-the-badge)
+
+
+
+
 
