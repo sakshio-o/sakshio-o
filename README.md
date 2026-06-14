@@ -74,6 +74,8 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshio-o&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=sakshio-o&theme=onedark&row=1&column=6'/>
 </div>
 
 ---
@@ -95,8 +97,3 @@ I don't just study AI. I build with it: gesture-controlled whiteboards, 3D recon
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshio-o&color=58A6FF&style=for-the-badge)
-
-
-
-
-
