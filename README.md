@@ -67,26 +67,29 @@ I don't just study AI — I build with it: gesture-controlled whiteboards, 3D re
 
 <div align="center">
 
-<table align="center">
+<table>
 <tr>
-<td align="center" colspan="2">
+<td>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sakshio-o&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&rank_icon=github"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshio-o&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshio-o&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshio-o&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10"/>
+<td>
+
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshio-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </td>
 </tr>
 </table>
 
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=sakshio-o&theme=onedark&row=1&column=6'/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshio-o&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br><br>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=sakshio-o&theme=onedark&row=1&column=6'/> </div>
+
 </div>
+
 
 ---
 
